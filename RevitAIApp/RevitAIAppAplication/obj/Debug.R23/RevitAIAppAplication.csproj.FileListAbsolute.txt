@@ -1,0 +1,7 @@
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.csproj.AssemblyReference.cache
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.g.resources
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.AssemblyInfoInputs.cache
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.AssemblyInfo.cs
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.csproj.CoreCompileInputs.cache
+D:\GitHub\HocRevitAPI\RevitAIApp\RevitAIAppAplication\obj\Debug.R23\RevitAIAppAplication.sourcelink.json

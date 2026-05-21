@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\HocRevitAPI\\RevitAIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665FBC3F-251C-499F-A0F9-D420FF3B743C}|RevitAIAppAplication\\RevitAIAppAplication.csproj|d:\\github\\hocrevitapi\\revitaiapp\\revitaiappaplication\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665FBC3F-251C-499F-A0F9-D420FF3B743C}|RevitAIAppAplication\\RevitAIAppAplication.csproj|solutionrelative:revitaiappaplication\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEEEEE-EEEE-EEEE-EEEE-EEEEEEEEEEEE}|Solution Items{EEEEEEEE-EEEE-EEEE-EEEE-EEEEEEEEEEEE}|D:\\GitHub\\HocRevitAPI\\RevitAIApp\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EEEEEEEE-EEEE-EEEE-EEEE-EEEEEEEEEEEE}|Solution Items{EEEEEEEE-EEEE-EEEE-EEEE-EEEEEEEEEEEE}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\GitHub\\HocRevitAPI\\RevitAIApp\\RevitAIAppAplication\\Application.cs",
+              "RelativeDocumentMoniker": "RevitAIAppAplication\\Application.cs",
+              "ToolTip": "D:\\GitHub\\HocRevitAPI\\RevitAIApp\\RevitAIAppAplication\\Application.cs",
+              "RelativeToolTip": "RevitAIAppAplication\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:00:34.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\GitHub\\HocRevitAPI\\RevitAIApp\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "D:\\GitHub\\HocRevitAPI\\RevitAIApp\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-19T13:57:41.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
